@@ -13,5 +13,5 @@ math
 picamera  
 pillow  
 numpy  
-landroidcc  
+landroidcc - https://github.com/awegg/landroidcc
 influxdb_client  
